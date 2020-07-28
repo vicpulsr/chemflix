@@ -1,0 +1,138 @@
+{
+  "categorias": [
+    {
+      "titulo": "Experiments at Home",
+      "cor": "#CBC5EA",
+      "videos": [
+        {
+          "titulo": "25 EASY Science Experiments You Can Do at Home!",
+          "url": "https://www.youtube.com/watch?v=6YD2Pw9R7jY"
+        },
+        {
+          "titulo": "12 Amazing Experiments",
+          "url": "https://www.youtube.com/watch?v=WLxe25Rkp1Y"
+        },
+        {
+          "titulo": "20 Amazing Science Experiments and Optical Illusions!",
+          "url": "https://www.youtube.com/watch?v=vzopTRZzh-Y"
+        },
+        {
+          "titulo": "How to Make a Huge Microscop Projector from a Laser Pen",
+          "url": "https://www.youtube.com/watch?v=IZ4QqtXAM7A&list=RDCMUCJnlW_BAdjOYRcsQ0BsxZ1Q&index=4"
+        },
+        {
+          "titulo": "How to make Hot ice at Home",
+          "url": "https://www.youtube.com/watch?v=pzHiVGeevZE&list=RDCMUCJnlW_BAdjOYRcsQ0BsxZ1Q&index=5"
+        },
+        {
+          "titulo": "3 Cool Experiments with Ballons you can do at Home",
+          "url": "https://www.youtube.com/watch?v=bP-8sxivuCU&list=RDCMUCJnlW_BAdjOYRcsQ0BsxZ1Q&index=7"
+        },
+        {
+          "titulo": "Experiment: Coca Cola and Drain Cleaner",
+          "url": "https://www.youtube.com/watch?v=uQHFQoFoxvQ&list=RDCMUCJnlW_BAdjOYRcsQ0BsxZ1Q&index=8"
+        },
+        {
+          "titulo": "Silver Egg Experiment! Fire and Water turns makes the egg shiny",
+          "url": "https://www.youtube.com/watch?v=wRVaeL8pWiI&list=RDCMUCJnlW_BAdjOYRcsQ0BsxZ1Q&index=9"
+        }        
+      ]
+    },
+    {
+      "titulo": "Experiments for Kids",
+      "cor": "#F4817B",
+      "videos": [
+        {
+          "titulo": "Easy Science Experiments for Kids",
+          "url": "https://www.youtube.com/watch?v=z-R3DShHbkA"
+        },
+        {
+          "titulo": "10 Easy Science Experiments - That Will Amaze Kids",
+          "url": "https://www.youtube.com/watch?v=4MHn9Q5NtdY"
+        },
+        {
+          "titulo": "EASY SCIENCE EXPERIMENTS FOR KIDS",
+          "url": "https://www.youtube.com/watch?v=McVpXiSttnU"
+        },
+        {
+          "titulo": "Pasta de Dente de Elefante (Reação Química)",
+          "url": "https://www.youtube.com/watch?v=p5qvi20J5IM"
+        }, 
+        {
+          "titulo": "25 COOLEST Science Experiments You Can Do at Home for Kids",
+          "url": "https://www.youtube.com/watch?v=K0PJ4LiWl8w"
+        }
+      ]
+    },
+    {
+      "titulo": "Learning Chemistry",
+      "cor": "#FCE762",
+      "videos": [
+        {
+          "titulo": "Intro to Chemistry, Basic Concepts - Periodic Table, Elements, Metric System & Unit Conversion",
+          "url": "https://www.youtube.com/watch?v=bka20Q9TN6M&list=RDCMUCEWpbFLzoYGPfuWUMFPSaoA&start_radio=1&t=55"
+        },
+        {
+          "titulo": "Polar and NonPolar Molecules: How To Tell If a Molecule is Polar or Nonpolar",
+          "url": "https://www.youtube.com/watch?v=SiZXRScxbl0&list=RDCMUCEWpbFLzoYGPfuWUMFPSaoA&index=2"
+        },
+        {
+          "titulo": "Hybridization of Atomic Orbitals, Sigma and Pi Bonds, Sp Sp2 Sp3, Organic Chemistry, Bonding",
+          "url": "https://www.youtube.com/watch?v=otYj92d7rB0&list=RDCMUCEWpbFLzoYGPfuWUMFPSaoA&index=6"
+        },
+        {
+          "titulo": "How To Convert PPM to PPM",
+          "url": "https://www.youtube.com/watch?v=S1r6SubMA1Y&list=RDCMUCEWpbFLzoYGPfuWUMFPSaoA&index=12"
+        }
+      ]
+    },
+    {
+      "titulo": "Chemistry History",
+      "cor": "#FFB17A",
+      "videos": [
+        {
+          "titulo": "All Nobel laureates in Chemistry in History",
+          "url": "https://www.youtube.com/watch?v=tjubozDaveU"
+        },
+        {
+          "titulo": "The 2019 Nobel Prize in Chemistry - Lithium Ion Batteries",
+          "url": "https://www.youtube.com/watch?v=zy1BhVhpGN0"
+        },
+        {
+          "titulo": "A brief History of Chemistry",
+          "url": "https://www.youtube.com/watch?v=nXKrmOHU68k"
+        },
+        {
+          "titulo": "The New Chemistry: Crash Course History of Science #18",
+          "url": "https://www.youtube.com/watch?v=_M694ED8GtI"
+        }
+      ]
+    },
+    {
+      "titulo": "Chemistry Songs",
+      "cor": "#F58EB9",
+      "videos": [
+        {
+          "titulo": "ACIDS AND BASES SONG | Science Music Video",
+          "url": "https://www.youtube.com/watch?v=YtbAOaudVtA"
+        },
+        {
+          "titulo": "KINETIC AND POTENTIAL ENERGY SONG | Science Music Video",
+          "url": "https://www.youtube.com/watch?v=St2q6oGO6xo&list=RDCMUCw3pM2qga543ep2XZD_cntA&index=14"
+        },
+        {
+          "titulo": "CITRIC ACID CYCLE SONG | Science Music Video",
+          "url": "https://www.youtube.com/watch?v=qKoA7FxMyUA&list=RDCMUCw3pM2qga543ep2XZD_cntA&index=19"
+        },
+        {
+          "titulo": "THE ATOMS SONG | Science Music Video",
+          "url": "https://www.youtube.com/watch?v=GLp9ihOYjjM&list=RDCMUCw3pM2qga543ep2XZD_cntA&index=23"
+        },
+        {
+          "titulo": "THE PERIODIC TABLE OF ELEMENTS SONG",
+          "url": "https://www.youtube.com/watch?v=qiC67HrmpSs&list=RDCMUCw3pM2qga543ep2XZD_cntA&index=38"
+        }
+      ]
+    }
+      ]
+}
