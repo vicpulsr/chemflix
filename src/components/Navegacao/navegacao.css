@@ -1,0 +1,16 @@
+.navegacao {
+    display: flex;
+
+}
+
+a {
+    color: white;
+    margin: 0px 6px;
+    text-decoration: none;
+}
+
+@media (max-width: 917px) {
+    .navegacao {
+        display: none;
+    }
+}

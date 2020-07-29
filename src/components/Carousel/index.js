@@ -4,13 +4,15 @@ import VideoCard from './components/VideoCard';
 
 function VideoCardGroup({
   ignoreFirstVideo,
-  category,
+  category, id
 }) {
   const categoryTitle = category.titulo;
   const categoryColor = category.cor;
   const categoryExtraLink = category.link_extra;
   const videos = category.videos;
   return (
+    <div id={id}>
+      
     <VideoCardGroupContainer>
       {categoryTitle && (
         <>
@@ -42,6 +44,7 @@ function VideoCardGroup({
         })}
       </VideoCardList>
     </VideoCardGroupContainer>
+    </div>
   );
 }
 

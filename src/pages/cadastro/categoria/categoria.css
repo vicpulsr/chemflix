@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    font-weight: 300;
+}
+
+
+input, #text-area {
+    background-color: #53585D;
+    width: 100%;
+    height: 40px;
+    color: var(--white);
+    margin: 20px 0px;
+    outline: none;
+    position: relative;
+}
+
+#text-area {
+    height: 140px;
+}
+
+input::placeholder {
+    color: white;
+    font-size: 10px;
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+.button-save {
+    background: var(--primary);
+    margin: 0px 20px 20px 0px;
+    color: black !important
+}
+
+.button-clean {
+    background: var(--grayMedium);
+    color: black !important
+}
+
+table {
+    border: 1px solid var(--primary);
+    margin: 10px 0px;
+}
+
+th {
+    border-bottom:  1px solid var(--primary);
+    border-right:  1px solid var(--primary);
+}
+
+td {
+    padding-right: 20px;
+}
