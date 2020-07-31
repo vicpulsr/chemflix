@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+        "id": 1,
+        "titulo": "Experiments at Home",
+        "descricao": "Experiments that you can do at home",
+        "cor": "#FFF"
+        },
+        {
+            "id": 2,
+            "titulo": "Experiments for Kids",
+            "descricao": "Experiments that you can do with your kids",
+            "cor": "#ccc"
+        }
+    ]
+}
